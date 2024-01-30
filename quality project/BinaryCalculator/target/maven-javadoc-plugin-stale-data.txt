@@ -1,0 +1,57 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/quality project/BinaryCalculator/target/classes;C:/quality project/BinaryCalculator/target/test-classes;C:/Users/Sam/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/Sam/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/Sam/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/quality project/BinaryCalculator/src/test/java;C:/quality project/BinaryCalculator/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/quality project/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SamuelIjose 1.0.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/quality project/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'SamuelIjose 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/quality project/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+'C:/quality project/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
+C:\quality project\BinaryCalculator\target\classes = 1706579017921
+C:\quality project\BinaryCalculator\target\test-classes = 1706579017982
+C:\Users\Sam\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1706506903759
+C:\Users\Sam\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1695778138046
+C:\Users\Sam\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar = 1706549395060
+C:\quality project\BinaryCalculator\src\test\java = 1706554195852
+C:\quality project\BinaryCalculator\target\generated-test-sources\test-annotations = 1706579017946
+C:\quality project\BinaryCalculator\target\site\testapidocs\allclasses-index.html = 1706579021841
+C:\quality project\BinaryCalculator\target\site\testapidocs\allpackages-index.html = 1706579021842
+C:\quality project\BinaryCalculator\target\site\testapidocs\element-list = 1706579021817
+C:\quality project\BinaryCalculator\target\site\testapidocs\help-doc.html = 1706579021855
+C:\quality project\BinaryCalculator\target\site\testapidocs\index-all.html = 1706579021852
+C:\quality project\BinaryCalculator\target\site\testapidocs\index.html = 1706579021852
+C:\quality project\BinaryCalculator\target\site\testapidocs\jquery-ui.overrides.css = 1706579021862
+C:\quality project\BinaryCalculator\target\site\testapidocs\member-search-index.js = 1706579021844
+C:\quality project\BinaryCalculator\target\site\testapidocs\module-search-index.js = 1706579021843
+C:\quality project\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1706579021832
+C:\quality project\BinaryCalculator\target\site\testapidocs\package-search-index.js = 1706579021843
+C:\quality project\BinaryCalculator\target\site\testapidocs\script.js = 1706579021857
+C:\quality project\BinaryCalculator\target\site\testapidocs\search.js = 1706579021858
+C:\quality project\BinaryCalculator\target\site\testapidocs\stylesheet.css = 1706579021856
+C:\quality project\BinaryCalculator\target\site\testapidocs\tag-search-index.js = 1706579021844
+C:\quality project\BinaryCalculator\target\site\testapidocs\type-search-index.js = 1706579021844
